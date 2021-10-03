@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://blog.naver.com/gyfls2811" target="_blank"><img src="https://img.shields.io/badge/NAVER-#03C75A?style=flat&logo=Naver&logoColor=black"/></a>
+<a href="https://blog.naver.com/gyfls2811" target="_blank"><img src="https://img.shields.io/badge/NAVER-black?style=flat&logo=Naver&logoColor=#03C75A"/></a>
 </br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyorinkim&show_icons=true&theme=radical)
